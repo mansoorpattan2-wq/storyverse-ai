@@ -1,0 +1,6 @@
+{
+  "name": "StoryVerse AI",
+  "description": "The AI Content Intelligence & Creator Economy Platform for creators, brands, and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
